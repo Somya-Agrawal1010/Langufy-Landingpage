@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Langufy-Landingpage/static/css/main.e54e568f.css",
+    "main.js": "/Langufy-Landingpage/static/js/main.36ca9683.js",
+    "index.html": "/Langufy-Landingpage/index.html",
+    "main.e54e568f.css.map": "/Langufy-Landingpage/static/css/main.e54e568f.css.map",
+    "main.36ca9683.js.map": "/Langufy-Landingpage/static/js/main.36ca9683.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e54e568f.css",
+    "static/js/main.36ca9683.js"
+  ]
+}
